@@ -1,0 +1,43 @@
+/* Dropbox.css */
+
+body {
+        
+        font-family: "lucida grande",arial,verdana,sans-serif;
+        margin-left: 100px;
+        
+     }
+
+.esquerda {
+        
+        margin-left: 100px;
+        
+        }
+        
+.where {
+        width: 300px;
+        text-align: left;
+        line-height: 28px;
+        }
+        
+.there {
+        width: 300px;
+        line-height: 28px;
+        text-align: left;
+        margin-left: 700px;
+        }
+        
+.direita {
+        
+        text-align: center;
+        margin-left: 700px;
+        
+        }
+        
+footer {
+        
+        word-spacing: 50px;
+        text-align: center;
+        margin-bottom: 100px;
+        margin-top: 100px;
+        
+        }
